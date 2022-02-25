@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GoogleMaps",
+        "repositoryURL": "https://github.com/dplisek/GoogleMaps-SP",
+        "state": {
+          "branch": null,
+          "revision": "b77261e076ff902e13748bab302f4d64f256194f",
+          "version": "6.0.0-universal"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
